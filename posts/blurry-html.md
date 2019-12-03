@@ -2,8 +2,8 @@
 
 I had just finished creating some modal dialogs today and was just getting our UX designer to sign off on them when he pointed out that one of them was a bit blurry. I had sort of noticed this before, but didn't really think too much of it, attributing it to my monitor or not wearing my glasses. When I looked into it further, it was quiet obvious:
 
-[Blurry dialog image]
-[Crisp dialog image]
+![Blurry dialog](../assets/blurry-dialog.png)
+![Crisp dialog](../assets/crisp-dialog.png)
 
 ## The issue
 
