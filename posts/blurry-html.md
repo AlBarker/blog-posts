@@ -21,8 +21,7 @@ There are a few different ways to resolve this, which might work for you:
 
 Use the following lines of CSS to round the height of your element to an even number.
 
-
-```
+```scss
     transform: scale(2);
     zoom: 0.5;
 ```
